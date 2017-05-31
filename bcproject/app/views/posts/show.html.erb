@@ -12,8 +12,7 @@
 
 <p>
   <strong>Price:</strong>
-  <%= @post.price %>
-  <%= t('post_price', price: @post.price) %>
+  <%= "#{t('currency')}#{@post.price}" %>
 </p>
 
 

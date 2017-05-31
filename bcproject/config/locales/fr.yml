@@ -1,16 +1,9 @@
 fr:
+  currency: "€"
   posts:
     index:
       title: "Postes....juste postes  FR"
       
       
-      number:
-       currency:
-          format:
-            unit: '€'
-            delimiter: ','
-            separator: '.'
-            precision: 2
-            format: '%u%n'
 
      #   signed_up: 'Welcome! You have signed up successfully.'

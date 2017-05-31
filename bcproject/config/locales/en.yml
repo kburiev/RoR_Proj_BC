@@ -1,10 +1,11 @@
 en:
-  price: "$%{price}"
+  currency: "$"
   posts:
     index:
       title: "Posts....just posts EN"
+    
+  #  price: "$%{price}"
 
- 
 
 # Files in the config/locales directory are used for internationalization
 # and are automatically loaded by Rails. If you want to use locales other
